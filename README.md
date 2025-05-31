@@ -20,10 +20,10 @@ O projeto está organizado da seguinte forma:
 │   └── 02.embeddings.ipynb       # Notebook principal que contém a lógica de criação de embeddings e a implementação do RAG.
 ├── LICENSE.txt               # Arquivo de licença do projeto.
 └── requirements.txt          # Lista das dependências Python do projeto.
+└── README.md
 ```
 
-## Tecnologias Utilizadas (
-
+## Tecnologias Utilizadas
 Este projeto emprega as seguintes bibliotecas e ferramentas:
 * **Qdrant**: Banco de dados de vetores em memória, utilizado para armazenar e realizar buscas por similaridade nos embeddings.
 * **Sentence Transformers**: Biblioteca para a criação de embeddings (representações vetoriais densas) a partir de descrições textuais de vinhos. O modelo `all-MiniLM-L6-v2` foi empregado para este fim.
