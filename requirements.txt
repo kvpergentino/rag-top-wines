@@ -1,0 +1,6 @@
+pandas
+ipykernel
+ipywidgets
+qdrant-client
+sentence-transformers
+openai
