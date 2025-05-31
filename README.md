@@ -19,8 +19,9 @@ O projeto está organizado da seguinte forma:
 │   ├── 01.managing-data.ipynb    # Notebook dedicado à exploração e pré-processamento dos dados.
 │   └── 02.embeddings.ipynb       # Notebook principal que contém a lógica de criação de embeddings e a implementação do RAG.
 ├── LICENSE.txt               # Arquivo de licença do projeto.
-└── requirements.txt          # Lista das dependências Python do projeto.
 └── README.md
+└── requirements.txt          # Lista das dependências Python do projeto.
+
 ```
 
 ## Tecnologias Utilizadas
