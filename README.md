@@ -14,7 +14,7 @@ O projeto está organizado da seguinte forma:
 ```
 .
 ├── data/
-│   └── top_rated_wines.csv   # Conjunto de dados de vinhos (top_rated_wines.csv).
+│   └── top_rated_wines.csv   # Conjunto de dados de vinhos.
 ├── notebooks/
 │   ├── 01.managing-data.ipynb    # Notebook dedicado à exploração e pré-processamento dos dados.
 │   └── 02.embeddings.ipynb       # Notebook principal que contém a lógica de criação de embeddings e a implementação do RAG.
